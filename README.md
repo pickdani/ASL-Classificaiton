@@ -1,1 +1,2 @@
-# ASL-Classificaiton
+# ASL Image Classification
+Daniel Pickett
